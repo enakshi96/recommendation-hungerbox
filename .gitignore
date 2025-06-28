@@ -1,0 +1,4 @@
+// ignore accenture all files
+# Accenture Data
+# Ignore all files in the accenture_data directory
+*.csv
